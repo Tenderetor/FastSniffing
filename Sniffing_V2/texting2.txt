@@ -1,0 +1,134 @@
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at http://bit.ly/pio-monitor-filters
+is Module Registered to Network?... 1
+Signal Quality... 17
+Operator Name... 
+First close GPRS... 0
+Now connect GPRS..1
+Internet initialization done!!
+Lets Get the trip number and start trip
+=====================================================================
+First close GPRS... 1
+Now connect GPRS..1
+
+Get... 
+this is what I have received
+METHOD:GET|HTTPCODE:200|LENGTH:59|DATA:["-MmV65vG7cu7rwvUtSsM"]{"-MmV65vG7cu7rwvUtSsM":{"trip":1}}
+This is trip number 1
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 4f:9e:3a:ee:f7:ef
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 49:ec:6c:04:c8:9c
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 57:d9:b9:a9:3c:06
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 4b:b3:59:e8:68:35
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 79:75:f2:a3:c3:2a
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 47:36:67:1e:45:43
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 74:99:0e:08:19:41
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 62:9d:ff:91:ce:a4
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6c:0f:19:60:46:12
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c6:ac:98:fb:cd:28
+10 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 10 Elements
+New Sorted Array has: 10 Elements
+========================================
+4f:9e:3a:ee:f7:ef
+49:ec:6c:04:c8:9c
+57:d9:b9:a9:3c:06
+4b:b3:59:e8:68:35
+79:75:f2:a3:c3:2a
+47:36:67:1e:45:43
+74:99:0e:08:19:41
+62:9d:ff:91:ce:a4
+6c:0f:19:60:46:12
+c6:ac:98:fb:cd:28
+========================================
+========================================
+ending bluetooth scanning first
+==========================RELEASE==============RAM====================================
+==================================DONE================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================

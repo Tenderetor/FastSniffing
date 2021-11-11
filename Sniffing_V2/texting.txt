@@ -1,0 +1,5136 @@
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at http://bit.ly/pio-monitor-filters
+is Module Registered to Network?... 1
+Signal Quality... 23
+Operator Name... 
+First close GPRS... 1
+Now connect GPRS..1
+Internet initialization done!!
+Lets Get the trip number and start trip
+=====================================================================
+First close GPRS... 1
+Now connect GPRS..1
+
+Get... 
+this is what I have received
+METHOD:GET|HTTPCODE:200|LENGTH:59|DATA:["-MmV65vG7cu7rwvUtSsM"]{"-MmV65vG7cu7rwvUtSsM":{"trip":1}}
+This is trip number 1
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+10 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+11 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+12 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+13 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+14 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+15 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+16 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+17 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+18 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+19 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+20 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+21 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+22 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+23 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+24 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+25 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+26 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+27 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+28 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+29 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+30 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+31 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+32 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+33 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+34 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+35 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+36 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+37 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+38 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+39 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+40 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+41 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+42 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+43 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+44 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+45 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+46 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+47 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+48 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+49 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+50 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+51 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+52 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+53 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+54 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+55 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+56 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+57 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+58 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+59 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+60 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+61 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+62 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+63 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+64 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+65 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+66 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+67 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+68 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+69 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+70 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+71 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+72 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+73 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+74 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+75 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+76 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+77 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+78 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+79 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+80 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+81 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+82 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+83 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+84 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+85 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+86 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+87 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+88 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+89 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+90 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+91 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+92 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+93 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+94 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+95 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+96 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+97 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+98 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+99 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+100 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+101 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+102 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+103 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+104 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:59:01:02:e5:12
+105 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+106 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+107 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+108 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+109 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+110 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+111 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+112 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+113 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+114 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+115 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+116 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+117 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+118 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+119 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+120 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+121 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+122 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+123 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+124 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+125 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+126 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+127 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+128 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+129 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+130 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+131 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+132 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+133 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+134 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+135 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+136 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+137 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+138 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+139 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+140 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+141 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+142 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+143 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+144 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+145 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+146 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+147 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+148 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+149 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+150 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+151 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+152 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+153 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+154 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+155 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+156 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+157 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+158 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+159 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+160 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+161 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+162 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+163 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+164 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+165 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+166 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+167 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+168 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+169 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+170 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+171 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+172 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+173 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+174 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+175 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+176 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+177 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+178 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+179 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+180 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+181 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+182 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+183 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+184 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+185 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+186 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+187 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+188 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+189 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+190 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 190 Elements
+New Sorted Array has: 13 Elements
+========================================
+6a:6e:a8:41:a8:3f
+56:dd:f5:b7:f3:af
+70:ff:cd:4f:2f:40
+6f:c5:77:00:04:04
+45:f3:65:0d:b7:f3
+ca:5c:33:6d:59:d0
+6f:f6:43:e2:33:92
+43:da:6f:cb:85:2e
+56:46:a7:5a:cd:56
+77:ed:b2:68:92:4d
+6f:4b:c2:01:4c:16
+c1:50:b7:9a:22:dc
+45:59:01:02:e5:12
+========================================
+========================================
+ending bluetooth scanning first
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+Function: ClassicEnergyCheckForDuplicates
+Old Unsorted Array had: 13 Elements
+New Sorted Array has: 13 Elements
+========================================
+6a:6e:a8:41:a8:3f
+56:dd:f5:b7:f3:af
+70:ff:cd:4f:2f:40
+6f:c5:77:00:04:04
+45:f3:65:0d:b7:f3
+ca:5c:33:6d:59:d0
+6f:f6:43:e2:33:92
+43:da:6f:cb:85:2e
+56:46:a7:5a:cd:56
+77:ed:b2:68:92:4d
+6f:4b:c2:01:4c:16
+c1:50:b7:9a:22:dc
+45:59:01:02:e5:12
+========================================
+========================================
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Hello
+location
+Latitude: -33.926262
+Longitude: 18.860658
+
+Inside gps functon the returned tym ->10/22/2021 12:39:38
+The number of new passengers is 13
+
+Inside the Recursion function
+doc_how_many_times 1
+doc_how_many_times_remainder 3
+doc_how_many_times is greater than 1 loop:
+documentingJson will be called atleast once
+The documentingJson function
+The current address: 6a:6e:a8:41:a8:3f
+After setting root data in document
+The current address: 56:dd:f5:b7:f3:af
+After setting root data in document
+The current address: 70:ff:cd:4f:2f:40
+After setting root data in document
+The current address: 6f:c5:77:00:04:04
+After setting root data in document
+The current address: 45:f3:65:0d:b7:f3
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "6a:6e:a8:41:a8:3f",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "56:dd:f5:b7:f3:af",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "70:ff:cd:4f:2f:40",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "6f:c5:77:00:04:04",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "45:f3:65:0d:b7:f3",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+
+The counter adding to the array in documentingJson is now 
+0
+
+
+======================domumentingJson First Half==========================
+The current address: ca:5c:33:6d:59:d0
+After setting root data in document
+The current address: 6f:f6:43:e2:33:92
+After setting root data in document
+The current address: 43:da:6f:cb:85:2e
+After setting root data in document
+The current address: 56:46:a7:5a:cd:56
+After setting root data in document
+The current address: 77:ed:b2:68:92:4d
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "ca:5c:33:6d:59:d0",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "6f:f6:43:e2:33:92",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "43:da:6f:cb:85:2e",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "56:46:a7:5a:cd:56",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "77:ed:b2:68:92:4d",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+
+The counter adding to the array in documentingJson is now 
+1
+
+
+======================domumentingJson END  2ND alf==========================
+The limit to be used is 10
+The doc_how_many_times_remainder variable value is 3
+The variable doc_how_many_times_remainder is greater than 1 there fore lets documentjson the remainder
+The documentingJson function
+The current address: 6f:4b:c2:01:4c:16
+After setting root data in document
+The current address: c1:50:b7:9a:22:dc
+After setting root data in document
+The current address: 45:59:01:02:e5:12
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "6f:4b:c2:01:4c:16",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "c1:50:b7:9a:22:dc",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  },
+  {
+    "addr": "45:59:01:02:e5:12",
+    "lat": -33.92626,
+    "lon": 18.86066,
+    "time": "10/22/2021 12:39:38"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+
+The counter adding to the array in documentingJson is now 
+2
+
+
+======================domumentingJson END==========================
+Done with recursion and documenting now we can set the flag done_jsondocumenting_flagg = true
+First close GPRS... 1
+Now connect GPRS..1
+GSM has already been initiated continue...
+Get IP Address... 100.73.31.218
+The counter to loop the output array is at
+0
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+
+Post... 
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+METHOD:POST|HTTPCODE:200|LENGTH:2602
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:2602
+The HTTP IS GOOD
+The LENGTH IS good
+POST Success!!
+POST was Successful, no need to store
+======================================================================================
+
+The counter to loop the output array is at
+1
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+
+Post... 
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+METHOD:POST|HTTPCODE:200|LENGTH:2631
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:2631
+The HTTP IS GOOD
+The LENGTH IS good
+POST Success!!
+POST was Successful, no need to store
+======================================================================================
+
+We have a remainder to post
+The counter to loop the output array is now at
+2
+
+SD Save... 
+Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+
+Post... 
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}]
+METHOD:POST|HTTPCODE:200|LENGTH:1415
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:1415
+The HTTP IS GOOD
+The LENGTH IS good
+POST Success!!
+POST was Successful, no need to store
+======================================================================================
+
+The Internet has finished
+======================================================================================
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6a:6e:a8:41:a8:3f
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:c5:77:00:04:04
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:ff:cd:4f:2f:40
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+10 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+11 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+12 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+13 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 45:f3:65:0d:b7:f3
+14 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+15 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+16 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+17 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:4b:c2:01:4c:16
+18 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+19 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+20 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+21 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+22 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+23 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+24 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+25 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 77:ed:b2:68:92:4d
+26 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+27 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+28 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:dd:f5:b7:f3:af
+29 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+30 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+31 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+32 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 56:46:a7:5a:cd:56
+33 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+34 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+35 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+36 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+37 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6f:f6:43:e2:33:92
+38 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+39 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+40 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 40 Elements
+New Sorted Array has: 17 Elements
+========================================
+56:46:a7:5a:cd:56
+77:ed:b2:68:92:4d
+6f:4b:c2:01:4c:16
+6f:f6:43:e2:33:92
+6a:6e:a8:41:a8:3f
+6f:c5:77:00:04:04
+45:f3:65:0d:b7:f3
+56:dd:f5:b7:f3:af
+70:ff:cd:4f:2f:40
+c1:50:b7:9a:22:dc
+5f:ae:84:79:83:0b
+7e:9e:93:f9:54:27
+5b:83:85:40:a6:49
+70:eb:63:13:ca:db
+60:2d:f6:e9:96:e8
+6e:83:63:ae:9a:6b
+75:c2:39:2b:f8:e6
+========================================
+========================================
+ending bluetooth scanning first
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+Function: ClassicEnergyCheckForDuplicates
+Old Unsorted Array had: 17 Elements
+New Sorted Array has: 17 Elements
+========================================
+56:46:a7:5a:cd:56
+77:ed:b2:68:92:4d
+6f:4b:c2:01:4c:16
+6f:f6:43:e2:33:92
+6a:6e:a8:41:a8:3f
+6f:c5:77:00:04:04
+45:f3:65:0d:b7:f3
+56:dd:f5:b7:f3:af
+70:ff:cd:4f:2f:40
+c1:50:b7:9a:22:dc
+5f:ae:84:79:83:0b
+7e:9e:93:f9:54:27
+5b:83:85:40:a6:49
+70:eb:63:13:ca:db
+60:2d:f6:e9:96:e8
+6e:83:63:ae:9a:6b
+75:c2:39:2b:f8:e6
+========================================
+========================================
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Hello
+location
+Latitude: -33.926267
+Longitude: 18.860682
+
+Inside gps functon the returned tym ->10/22/2021 12:41:39
+The number of new passengers is 17
+
+Inside the Recursion function
+doc_how_many_times 1
+doc_how_many_times_remainder 7
+recursion_before_calling_domumentingJson AFTER THE FIRST POST
+=====================================================================
+doc_how_many_times is greater than 1 loop:
+documentingJson will be called atleast once
+The documentingJson function
+The current address: 56:46:a7:5a:cd:56
+After setting root data in document
+The current address: 77:ed:b2:68:92:4d
+After setting root data in document
+The current address: 6f:4b:c2:01:4c:16
+After setting root data in document
+The current address: 6f:f6:43:e2:33:92
+After setting root data in document
+The current address: 6a:6e:a8:41:a8:3f
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "56:46:a7:5a:cd:56",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "77:ed:b2:68:92:4d",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "6f:4b:c2:01:4c:16",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "6f:f6:43:e2:33:92",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "6a:6e:a8:41:a8:3f",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+
+The counter adding to the array in documentingJson is now 
+0
+
+
+======================domumentingJson First Half==========================
+The current address: 6f:c5:77:00:04:04
+After setting root data in document
+The current address: 45:f3:65:0d:b7:f3
+After setting root data in document
+The current address: 56:dd:f5:b7:f3:af
+After setting root data in document
+The current address: 70:ff:cd:4f:2f:40
+After setting root data in document
+The current address: c1:50:b7:9a:22:dc
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "6f:c5:77:00:04:04",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "45:f3:65:0d:b7:f3",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "56:dd:f5:b7:f3:af",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "70:ff:cd:4f:2f:40",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "c1:50:b7:9a:22:dc",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+
+The counter adding to the array in documentingJson is now 
+1
+
+
+======================domumentingJson END  2ND alf==========================
+The limit to be used is 10
+The doc_how_many_times_remainder variable value is 7
+The variable doc_how_many_times_remainder is greater than 1 there fore lets documentjson the remainder
+The documentingJson function
+The current address: 5f:ae:84:79:83:0b
+After setting root data in document
+The current address: 7e:9e:93:f9:54:27
+After setting root data in document
+The current address: 5b:83:85:40:a6:49
+After setting root data in document
+The current address: 70:eb:63:13:ca:db
+After setting root data in document
+The current address: 60:2d:f6:e9:96:e8
+After setting root data in document
+The current address: 6e:83:63:ae:9a:6b
+After setting root data in document
+The current address: 75:c2:39:2b:f8:e6
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "5f:ae:84:79:83:0b",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "7e:9e:93:f9:54:27",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "5b:83:85:40:a6:49",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "70:eb:63:13:ca:db",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "60:2d:f6:e9:96:e8",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "6e:83:63:ae:9a:6b",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  },
+  {
+    "addr": "75:c2:39:2b:f8:e6",
+    "lat": -33.92627,
+    "lon": 18.86068,
+    "time": "10/22/2021 12:41:39"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+
+The counter adding to the array in documentingJson is now 
+2
+
+
+======================domumentingJson END==========================
+Done with recursion and documenting now we can set the flag done_jsondocumenting_flagg = true
+First close GPRS... 1
+Now connect GPRS..1
+GSM has already been initiated continue...
+Get IP Address... 100.112.46.175
+The counter to loop the output array is at
+0
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+
+Post... 
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The counter to loop the output array is at
+1
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+
+Post... 
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+We have a remainder to post
+The counter to loop the output array is now at
+2
+
+SD Save... 
+Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+
+Post... 
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The Internet has finished
+======================================================================================
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+10 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+11 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+12 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+13 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+14 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+15 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+16 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+17 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+18 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+19 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+20 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+21 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+22 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+23 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+24 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+25 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+26 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+27 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+28 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+29 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+30 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+31 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+32 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+33 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+34 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+35 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+36 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+37 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+38 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+39 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+40 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+41 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+42 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+43 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+44 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+45 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+46 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+47 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+48 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+49 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+50 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+51 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+52 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+53 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+54 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+55 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+56 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+57 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+58 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+59 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+60 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+61 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+62 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+63 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+64 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+65 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+66 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+67 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+68 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+69 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+70 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+71 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+72 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+73 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+74 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+75 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+76 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+77 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+78 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+79 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+80 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+81 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 81 Elements
+New Sorted Array has: 12 Elements
+========================================
+58:22:5d:6e:97:c9
+5f:ae:84:79:83:0b
+6e:83:63:ae:9a:6b
+7e:9e:93:f9:54:27
+5b:83:85:40:a6:49
+75:c2:39:2b:f8:e6
+5a:74:31:ab:61:66
+70:eb:63:13:ca:db
+60:2d:f6:e9:96:e8
+ca:5c:33:6d:59:d0
+c1:50:b7:9a:22:dc
+43:da:6f:cb:85:2e
+========================================
+========================================
+ending bluetooth scanning first
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+Function: ClassicEnergyCheckForDuplicates
+Old Unsorted Array had: 12 Elements
+New Sorted Array has: 12 Elements
+========================================
+58:22:5d:6e:97:c9
+5f:ae:84:79:83:0b
+6e:83:63:ae:9a:6b
+7e:9e:93:f9:54:27
+5b:83:85:40:a6:49
+75:c2:39:2b:f8:e6
+5a:74:31:ab:61:66
+70:eb:63:13:ca:db
+60:2d:f6:e9:96:e8
+ca:5c:33:6d:59:d0
+c1:50:b7:9a:22:dc
+43:da:6f:cb:85:2e
+========================================
+========================================
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Hello
+location
+Latitude: -33.926158
+Longitude: 18.860713
+
+Inside gps functon the returned tym ->10/22/2021 12:43:47
+The number of new passengers is 12
+
+Inside the Recursion function
+doc_how_many_times 1
+doc_how_many_times_remainder 2
+recursion_before_calling_domumentingJson AFTER THE FIRST POST
+=====================================================================
+doc_how_many_times is greater than 1 loop:
+documentingJson will be called atleast once
+The documentingJson function
+The current address: 58:22:5d:6e:97:c9
+After setting root data in document
+The current address: 5f:ae:84:79:83:0b
+After setting root data in document
+The current address: 6e:83:63:ae:9a:6b
+After setting root data in document
+The current address: 7e:9e:93:f9:54:27
+After setting root data in document
+The current address: 5b:83:85:40:a6:49
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "58:22:5d:6e:97:c9",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "5f:ae:84:79:83:0b",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "6e:83:63:ae:9a:6b",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "7e:9e:93:f9:54:27",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "5b:83:85:40:a6:49",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+
+The counter adding to the array in documentingJson is now 
+0
+
+
+======================domumentingJson First Half==========================
+The current address: 75:c2:39:2b:f8:e6
+After setting root data in document
+The current address: 5a:74:31:ab:61:66
+After setting root data in document
+The current address: 70:eb:63:13:ca:db
+After setting root data in document
+The current address: 60:2d:f6:e9:96:e8
+After setting root data in document
+The current address: ca:5c:33:6d:59:d0
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "75:c2:39:2b:f8:e6",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "5a:74:31:ab:61:66",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "70:eb:63:13:ca:db",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "60:2d:f6:e9:96:e8",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "ca:5c:33:6d:59:d0",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+
+The counter adding to the array in documentingJson is now 
+1
+
+
+======================domumentingJson END  2ND alf==========================
+The limit to be used is 10
+The doc_how_many_times_remainder variable value is 2
+The variable doc_how_many_times_remainder is greater than 1 there fore lets documentjson the remainder
+The documentingJson function
+The current address: c1:50:b7:9a:22:dc
+After setting root data in document
+The current address: 43:da:6f:cb:85:2e
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "c1:50:b7:9a:22:dc",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  },
+  {
+    "addr": "43:da:6f:cb:85:2e",
+    "lat": -33.92616,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:43:47"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"c1:50:b7:9a:22:dc","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+
+The counter adding to the array in documentingJson is now 
+2
+
+
+======================domumentingJson END==========================
+Done with recursion and documenting now we can set the flag done_jsondocumenting_flagg = true
+First close GPRS... 1
+Now connect GPRS..1
+GSM has already been initiated continue...
+Get IP Address... 100.69.170.251
+The counter to loop the output array is at
+0
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+
+Post... 
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The counter to loop the output array is at
+1
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+
+Post... 
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+We have a remainder to post
+The counter to loop the output array is now at
+2
+
+SD Save... 
+Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+
+Post... 
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"c1:50:b7:9a:22:dc","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The Internet has finished
+======================================================================================
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+10 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+11 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+12 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+13 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+14 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+15 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+16 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+17 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+18 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+19 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+20 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+21 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+22 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+23 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+24 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+25 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+26 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+27 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+28 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+29 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+30 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+31 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+32 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+33 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+34 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+35 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+36 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+37 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+38 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+39 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+40 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+41 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+42 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+43 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+44 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+45 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+46 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+47 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+48 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+49 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+50 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: ca:5c:33:6d:59:d0
+51 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+52 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+53 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+54 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+55 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+56 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+57 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+58 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+59 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+60 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+61 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+62 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+63 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+64 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+65 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+66 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+67 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+68 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+69 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+70 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+71 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+72 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+73 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+74 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+75 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+76 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+77 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+78 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+79 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+80 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+81 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+82 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+83 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+84 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+85 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+86 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+87 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+88 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+89 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+90 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+91 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+92 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+93 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+94 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+95 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+96 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+97 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+98 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+99 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+100 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+101 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+102 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+103 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+104 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+105 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+106 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+107 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+108 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+109 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+110 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+111 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+112 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+113 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+114 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+115 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+116 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+117 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+118 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+119 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+120 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+121 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+122 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+123 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+124 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+125 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+126 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+127 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+128 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+129 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+130 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+131 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+132 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+133 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+134 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+135 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+136 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+137 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 43:da:6f:cb:85:2e
+138 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+139 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+140 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+141 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+142 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+143 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+144 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+145 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+146 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+147 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+148 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+149 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+150 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+151 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+152 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+153 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+154 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+155 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+156 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+157 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+158 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+159 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+160 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: c1:50:b7:9a:22:dc
+161 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+162 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 162 Elements
+New Sorted Array has: 14 Elements
+========================================
+5f:ae:84:79:83:0b
+75:c2:39:2b:f8:e6
+70:eb:63:13:ca:db
+6e:83:63:ae:9a:6b
+78:02:b7:5b:71:bf
+60:2d:f6:e9:96:e8
+7e:9e:93:f9:54:27
+c1:50:b7:9a:22:dc
+5b:83:85:40:a6:49
+5a:74:31:ab:61:66
+58:22:5d:6e:97:c9
+43:da:6f:cb:85:2e
+ca:5c:33:6d:59:d0
+f1:f5:8f:72:e0:62
+========================================
+========================================
+ending bluetooth scanning first
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+Function: ClassicEnergyCheckForDuplicates
+Old Unsorted Array had: 14 Elements
+New Sorted Array has: 14 Elements
+========================================
+5f:ae:84:79:83:0b
+75:c2:39:2b:f8:e6
+70:eb:63:13:ca:db
+6e:83:63:ae:9a:6b
+78:02:b7:5b:71:bf
+60:2d:f6:e9:96:e8
+7e:9e:93:f9:54:27
+c1:50:b7:9a:22:dc
+5b:83:85:40:a6:49
+5a:74:31:ab:61:66
+58:22:5d:6e:97:c9
+43:da:6f:cb:85:2e
+ca:5c:33:6d:59:d0
+f1:f5:8f:72:e0:62
+========================================
+========================================
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Hello
+location
+Latitude: -33.926217
+Longitude: 18.860707
+
+Inside gps functon the returned tym ->10/22/2021 12:45:57
+The number of new passengers is 14
+
+Inside the Recursion function
+doc_how_many_times 1
+doc_how_many_times_remainder 4
+recursion_before_calling_domumentingJson AFTER THE FIRST POST
+=====================================================================
+doc_how_many_times is greater than 1 loop:
+documentingJson will be called atleast once
+The documentingJson function
+The current address: 5f:ae:84:79:83:0b
+After setting root data in document
+The current address: 75:c2:39:2b:f8:e6
+After setting root data in document
+The current address: 70:eb:63:13:ca:db
+After setting root data in document
+The current address: 6e:83:63:ae:9a:6b
+After setting root data in document
+The current address: 78:02:b7:5b:71:bf
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "5f:ae:84:79:83:0b",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "75:c2:39:2b:f8:e6",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "70:eb:63:13:ca:db",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "6e:83:63:ae:9a:6b",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "78:02:b7:5b:71:bf",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"70:eb:63:13:ca:db","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"78:02:b7:5b:71:bf","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+
+The counter adding to the array in documentingJson is now 
+0
+
+
+======================domumentingJson First Half==========================
+The current address: 60:2d:f6:e9:96:e8
+After setting root data in document
+The current address: 7e:9e:93:f9:54:27
+After setting root data in document
+The current address: c1:50:b7:9a:22:dc
+After setting root data in document
+The current address: 5b:83:85:40:a6:49
+After setting root data in document
+The current address: 5a:74:31:ab:61:66
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "60:2d:f6:e9:96:e8",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "7e:9e:93:f9:54:27",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "c1:50:b7:9a:22:dc",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "5b:83:85:40:a6:49",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "5a:74:31:ab:61:66",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"60:2d:f6:e9:96:e8","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5b:83:85:40:a6:49","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5a:74:31:ab:61:66","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+
+The counter adding to the array in documentingJson is now 
+1
+
+
+======================domumentingJson END  2ND alf==========================
+The limit to be used is 10
+The doc_how_many_times_remainder variable value is 4
+The variable doc_how_many_times_remainder is greater than 1 there fore lets documentjson the remainder
+The documentingJson function
+The current address: 58:22:5d:6e:97:c9
+After setting root data in document
+The current address: 43:da:6f:cb:85:2e
+After setting root data in document
+The current address: ca:5c:33:6d:59:d0
+After setting root data in document
+The current address: f1:f5:8f:72:e0:62
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "58:22:5d:6e:97:c9",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "43:da:6f:cb:85:2e",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "ca:5c:33:6d:59:d0",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  },
+  {
+    "addr": "f1:f5:8f:72:e0:62",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:45:57"
+  }
+]
+The following is the serialized output string for POST
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"c1:50:b7:9a:22:dc","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"f1:f5:8f:72:e0:62","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+
+The counter adding to the array in documentingJson is now 
+2
+
+
+======================domumentingJson END==========================
+Done with recursion and documenting now we can set the flag done_jsondocumenting_flagg = true
+First close GPRS... 1
+Now connect GPRS..1
+GSM has already been initiated continue...
+Get IP Address... 100.74.255.58
+The counter to loop the output array is at
+0
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"70:eb:63:13:ca:db","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"78:02:b7:5b:71:bf","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+
+Post... 
+[{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:c5:77:00:04:04","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"56:46:a7:5a:cd:56","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:4b:c2:01:4c:16","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6a:6e:a8:41:a8:3f","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5f:ae:84:79:83:0b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5b:83:85:40:a6:49","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"70:eb:63:13:ca:db","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"78:02:b7:5b:71:bf","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The counter to loop the output array is at
+1
+
+SD Save... Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"60:2d:f6:e9:96:e8","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5b:83:85:40:a6:49","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5a:74:31:ab:61:66","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+
+Post... 
+[{"addr":"ca:5c:33:6d:59:d0","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"6f:f6:43:e2:33:92","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"56:46:a7:5a:cd:56","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"77:ed:b2:68:92:4d","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"6f:c5:77:00:04:04","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"45:f3:65:0d:b7:f3","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"56:dd:f5:b7:f3:af","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:ff:cd:4f:2f:40","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"75:c2:39:2b:f8:e6","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"5a:74:31:ab:61:66","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"70:eb:63:13:ca:db","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"60:2d:f6:e9:96:e8","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5b:83:85:40:a6:49","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"5a:74:31:ab:61:66","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+We have a remainder to post
+The counter to loop the output array is now at
+2
+
+SD Save... 
+Initializing SD card...initialization of SD CARD done.
+The SD saved data is as follows
+
+Post... 
+[{"addr":"6f:4b:c2:01:4c:16","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"c1:50:b7:9a:22:dc","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"},{"addr":"45:59:01:02:e5:12","lat":-33.92626,"lon":18.86066,"time":"10/22/2021 12:39:38"}][{"addr":"5f:ae:84:79:83:0b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"7e:9e:93:f9:54:27","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"5b:83:85:40:a6:49","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"70:eb:63:13:ca:db","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"60:2d:f6:e9:96:e8","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"6e:83:63:ae:9a:6b","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"},{"addr":"75:c2:39:2b:f8:e6","lat":-33.92627,"lon":18.86068,"time":"10/22/2021 12:41:39"}][{"addr":"c1:50:b7:9a:22:dc","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92616,"lon":18.86071,"time":"10/22/2021 12:43:47"}][{"addr":"58:22:5d:6e:97:c9","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"43:da:6f:cb:85:2e","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"ca:5c:33:6d:59:d0","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"},{"addr":"f1:f5:8f:72:e0:62","lat":-33.92622,"lon":18.86071,"time":"10/22/2021 12:45:57"}]
+METHOD:POST|HTTPCODE:200|LENGTH:0
+This is the extracted status code :: |HTTPCODE:200|
+This is the extracted posted data length :: LENGTH:0
+The HTTP IS GOOD
+The LENGTH IS bad
+POST FAILED. Now we flag this event...
+POST FAILED. now saving data for later POST trying...
+The following failed while and has been saved for later save/post
+======================================================================================
+
+The Internet has finished
+======================================================================================
+BLE Central scan
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+1 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+2 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+3 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+4 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+5 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+6 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+7 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+8 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+9 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+10 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: d6:4b:64:37:a6:d6
+11 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+12 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+13 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+14 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+15 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+16 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+17 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+18 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+19 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+20 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+21 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+22 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+23 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+24 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+25 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+26 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+27 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+28 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+29 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+30 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+31 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+32 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+33 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+34 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+35 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+36 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+37 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+38 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+39 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+40 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+41 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+42 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+43 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+44 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+45 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: d6:4b:64:37:a6:d6
+46 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+47 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+48 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+49 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+50 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+51 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+52 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+53 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+54 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+55 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+56 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+57 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+58 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+59 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+60 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+61 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+62 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+63 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+64 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+65 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+66 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+67 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+68 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+69 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+70 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+71 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+72 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+73 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+74 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: d6:4b:64:37:a6:d6
+75 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+76 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+77 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+78 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+79 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+80 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+81 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+82 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+83 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+84 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+85 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+86 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+87 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+88 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+89 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+90 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+91 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+92 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+93 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+94 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+95 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+96 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+97 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+98 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+99 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+100 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+101 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 78:02:b7:5b:71:bf
+Local Name: L8-B1-71BF
+102 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+103 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+104 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: d6:4b:64:37:a6:d6
+105 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+106 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+107 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+108 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+109 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+110 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+111 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+112 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+113 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+114 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+115 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+116 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: f1:f5:8f:72:e0:62
+117 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+118 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+119 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+120 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+121 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+122 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+123 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+124 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+125 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 6e:83:63:ae:9a:6b
+126 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:d1:0a:d6:c5:f6
+127 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5b:83:85:40:a6:49
+128 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 75:c2:39:2b:f8:e6
+129 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 7e:9e:93:f9:54:27
+130 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 70:eb:63:13:ca:db
+131 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 60:2d:f6:e9:96:e8
+132 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5a:74:31:ab:61:66
+133 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 58:22:5d:6e:97:c9
+134 Devices from low energy bluetooth
+
+========================================
+Discovered a peripheral
+----------------------------------------
+Address: 5f:ae:84:79:83:0b
+135 Devices from low energy bluetooth
+
+========================================
+Function: LowEnergyCheckForDuplicates
+Old Unsorted Array had: 135 Elements
+New Sorted Array has: 13 Elements
+========================================
+58:22:5d:6e:97:c9
+60:2d:f6:e9:96:e8
+75:c2:39:2b:f8:e6
+5f:ae:84:79:83:0b
+5b:83:85:40:a6:49
+6e:83:63:ae:9a:6b
+7e:9e:93:f9:54:27
+5a:74:31:ab:61:66
+70:eb:63:13:ca:db
+70:d1:0a:d6:c5:f6
+d6:4b:64:37:a6:d6
+f1:f5:8f:72:e0:62
+78:02:b7:5b:71:bf
+========================================
+========================================
+ending bluetooth scanning first
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Send Plain AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+ERROR:[0]
+REACHED THE END OF THE LINE
+----------------------------------------
+ERROR Message Received
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+OK
+REACHED THE END OF THE LINE
+----------------------------------------
+we have received ok for controlled AT CMD
+Send AT Command to HC-05
+========================================
+Function: ClassicEnergyCheckForDuplicates
+Old Unsorted Array had: 13 Elements
+New Sorted Array has: 13 Elements
+========================================
+58:22:5d:6e:97:c9
+60:2d:f6:e9:96:e8
+75:c2:39:2b:f8:e6
+5f:ae:84:79:83:0b
+5b:83:85:40:a6:49
+6e:83:63:ae:9a:6b
+7e:9e:93:f9:54:27
+5a:74:31:ab:61:66
+70:eb:63:13:ca:db
+70:d1:0a:d6:c5:f6
+d6:4b:64:37:a6:d6
+f1:f5:8f:72:e0:62
+78:02:b7:5b:71:bf
+========================================
+========================================
+CHECKING RESIDUAL NONSENSE FOR RAM RELEASE
+======================================================================================
+======================================================================================
+=======================================That's done====================================
+======================================================================================
+HAVE WE CLEARED ?
+======================================================================================
+======================================================================================
+===========================yes we have================================================
+======================================================================================
+Hello
+location
+Latitude: -33.926217
+Longitude: 18.860707
+
+Inside gps functon the returned tym ->10/22/2021 12:48:05
+The number of new passengers is 13
+
+Inside the Recursion function
+doc_how_many_times 1
+doc_how_many_times_remainder 3
+recursion_before_calling_domumentingJson AFTER THE FIRST POST
+=====================================================================
+doc_how_many_times is greater than 1 loop:
+documentingJson will be called atleast once
+The documentingJson function
+The current address: 58:22:5d:6e:97:c9
+After setting root data in document
+The current address: 60:2d:f6:e9:96:e8
+After setting root data in document
+The current address: 75:c2:39:2b:f8:e6
+After setting root data in document
+The current address: 5f:ae:84:79:83:0b
+After setting root data in document
+The current address: 5b:83:85:40:a6:49
+After setting root data in document
+Print serialized data to serial monitor... 
+[
+  {
+    "addr": "58:22:5d:6e:97:c9",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:48:05"
+  },
+  {
+    "addr": "60:2d:f6:e9:96:e8",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:48:05"
+  },
+  {
+    "addr": "75:c2:39:2b:f8:e6",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:48:05"
+  },
+  {
+    "addr": "5f:ae:84:79:83:0b",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:48:05"
+  },
+  {
+    "addr": "5b:83:85:40:a6:49",
+    "lat": -33.92622,
+    "lon": 18.86071,
+    "time": "10/22/2021 12:48:05"
+  }
+]
+The following is the serialized output string for POST
