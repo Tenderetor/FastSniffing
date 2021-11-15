@@ -27,8 +27,8 @@ String Sniffed_Mac_Addresses[300];
 
 unsigned long currentMillis;
 unsigned long previousMillis;
-const unsigned long time_to_sniff_low_Energy = 1000 * 8;
-const unsigned long time_to_sniff_Classic_Energy = ((time_to_sniff_low_Energy) + (1000 * 17));
+const unsigned long time_to_sniff_low_Energy = 1000 * 10;
+const unsigned long time_to_sniff_Classic_Energy = ((time_to_sniff_low_Energy) + (1000 * 22));
 const unsigned long time_to_reset = 1000 * 60 * 20; //After 10 minutes I want to reset everything
 unsigned long reset_previousMillis;
 
@@ -127,7 +127,7 @@ void setup()
   delay(2000);
   hc_init();
   Internet_initialization();
-  trip_init();
+  //trip_init();
 }
 
 void loop()
@@ -254,9 +254,11 @@ void loop()
         Serial.println(F("ending bluetooth scanning first"));
         ble_end_flag = false;
         //BLE.stopScan();
-        BLE.end();
+        //BLE.end();
         scan_is_on=false;
-        free_ram();
+        free_ram();      
+        //BLE.scan();
+        //BLE.end();
       }
 
       hc_sniff();

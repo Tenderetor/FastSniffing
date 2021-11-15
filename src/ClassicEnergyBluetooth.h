@@ -36,7 +36,7 @@ void hc_init()
 {
   start_inq_flag = true;
   inq_flag = false;
-  BTserial.println("AT+INQM=1,9,7"); //RSSI, Max 10 devices, ~30s
+  BTserial.println("AT+INQM=1,9,9"); //RSSI, Max 10 devices, ~30s
   // put your setup code here, to run once:
   delay(1000);
   return;

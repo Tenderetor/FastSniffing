@@ -39,7 +39,7 @@ void SaveToSDCard(String Data_To_Save)
         dataFile.println(Data_To_Save);
         dataFile.close();
         //print to the serial port too:
-        Serial.println("The SD saved data is as follows");
+        Serial.println("The SD saved data");
         //Serial.println(PostOutputLater[i_]);
     }
     // if the file isn't open, pop up an error:

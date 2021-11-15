@@ -35,7 +35,7 @@ void Sniff_Low_Energy_bluetooth()
             Sniffed_Mac_Addresses[i] = (char *)malloc(sizeof(char)*size_of_addres);
           }
             */
-           //BLE.end();
+           BLE.end();
         // begin initialization
         if (!BLE.begin()) {
             Serial.println(F("starting BLE failed!"));
@@ -82,7 +82,6 @@ void Sniff_Low_Energy_bluetooth()
   }
 
   else{
-      //BLE.end();
       return;
       //LowEnergyCheckForDuplicates();
   }
