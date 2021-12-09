@@ -43,43 +43,43 @@ void SERCOM0_Handler()
 void Internet_initialization()
 {
     
-    Serial.println(F("Setting up gsm to go into gprs mode once and for all:"));
+    // Serial.println(F("Setting up gsm to go into gprs mode once and for all:"));
 
-    // Init module...
-    delay(5000);
-    http.init(); // use for init module. Use it if you dont have any valid reason.
+    // // Init module...
+    // delay(5000);
+    // http.init(); // use for init module. Use it if you dont have any valid reason.
 
-    while (http.setPhoneFunc(1) != true)
-    {
-        Serial.print(F("Set Phone Function... ")); //might wantto have many trials here
-        Serial.println(http.setPhoneFunc(1));
-        delay(1000);
-    }
+    // while (http.setPhoneFunc(1) != true)
+    // {
+    //     Serial.print(F("Set Phone Function... ")); //might wantto have many trials here
+    //     Serial.println(http.setPhoneFunc(1));
+    //     delay(1000);
+    // }
 
-    Serial.print(F("is Module Registered to Network?... "));
-    Serial.println(http.isRegistered());
-    delay(1000);
+    // Serial.print(F("is Module Registered to Network?... "));
+    // Serial.println(http.isRegistered());
+    // delay(1000);
 
-    Serial.print(F("Signal Quality... "));
-    Serial.println(http.signalQuality());
-    delay(1000);
+    // Serial.print(F("Signal Quality... "));
+    // Serial.println(http.signalQuality());
+    // delay(1000);
 
-    Serial.print(F("Operator Name... "));
-    Serial.println(http.operatorNameFromSim());
-    delay(1000);
+    // Serial.print(F("Operator Name... "));
+    // Serial.println(http.operatorNameFromSim());
+    // delay(1000);
 
-    Serial.print(F("First close GPRS... "));
-    Serial.println(http.closeConn());
-    delay(1000);
+    // Serial.print(F("First close GPRS... "));
+    // Serial.println(http.closeConn());
+    // delay(1000);
 
-    Serial.print(F("Now connect GPRS."));
+    // Serial.print(F("Now connect GPRS."));
 
-    while (!http.isConnected())
-    {
-        Serial.print(F("."));
-        Serial.println(http.connect());
-        delay(500);
-    }
+    // while (!http.isConnected())
+    // {
+    //     Serial.print(F("."));
+    //     Serial.println(http.connect());
+    //     delay(500);
+    // }
 
     Serial.println(F("Internet initialization done!!"));
 
@@ -91,52 +91,56 @@ void Internet_initialization()
 
 void Send_To_The_Internet()
 {
-        Serial.print(F("First close GPRS... "));
-    Serial.println(http.closeConn());
-    delay(1000);
+    Serial.print("SD Save... ");
+    SaveToSDCard(Internet_String);
+    Serial.println();
 
-    Serial.print(F("Now connect GPRS."));
+    //     Serial.print(F("First close GPRS... "));
+    // Serial.println(http.closeConn());
+    // delay(1000);
 
-    while (!http.isConnected())
-    {
-        Serial.print(F("."));
-        Serial.println(http.connect());
-        delay(500);
-    }
+    // Serial.print(F("Now connect GPRS."));
 
-    Serial.println(F("GSM has already been initiated continue..."));
-    Serial.print(F("Get IP Address... "));
-    Serial.println(http.getIP());
-    delay(1000);
+    // while (!http.isConnected())
+    // {
+    //     Serial.print(F("."));
+    //     Serial.println(http.connect());
+    //     delay(500);
+    // }
+
+    // Serial.println(F("GSM has already been initiated continue..."));
+    // Serial.print(F("Get IP Address... "));
+    // Serial.println(http.getIP());
+    // delay(1000);
     
-        Serial.println();
+    //     Serial.println();
 
-        Serial.print("SD Save... ");
-        SaveToSDCard(Internet_String);
-        Serial.println();
+    //     Serial.print("SD Save... ");
+    //     SaveToSDCard(Internet_String);
+    //     Serial.println();
 
-        Serial.println("Post... ");
-        Serial.println(Internet_String);
+    //     Serial.println("Post... ");
+    //     Serial.println(Internet_String);
 
-        //Serial.println(http.post("gjm.yjg.mybluehost.me/kptbot.php", output, "application/json"));
-        PostResult = http.post("gjm.yjg.mybluehost.me/kptbot.php", Internet_String, "application/json");
-        Serial.println(PostResult);
-        post_status(PostResult);
+    //     //Serial.println(http.post("gjm.yjg.mybluehost.me/kptbot.php", output, "application/json"));
+    //     PostResult = http.post("gjm.yjg.mybluehost.me/kptbot.php", Internet_String, "application/json");
+    //     Serial.println(PostResult);
+    //     post_status(PostResult);
 
-        if (!SuccessfulPostFlagg)
-        {
-            Serial.println("POST FAILED. now saving data for later POST trying...");
-            atleast_one_post_failed = true; //maybe test after a time (maybe end of day)if this flag is true and then act
-            //PostOutputLater[later_counter]=Json_output_string[0]; //output is a long string with many data
-            Serial.println("The following failed while and has been saved for later save/post");
-            //Serial.println(PostOutputLater[later_counter]);
-        }
-        else
-        {
-            Serial.println("POST was Successful, no need to store");
-            Serial.println("======================================================================================");
-            Serial.println();
-        }
+    //     if (!SuccessfulPostFlagg)
+    //     {
+    //         Serial.println("POST FAILED. now saving data for later POST trying...");
+    //         atleast_one_post_failed = true; //maybe test after a time (maybe end of day)if this flag is true and then act
+    //         //PostOutputLater[later_counter]=Json_output_string[0]; //output is a long string with many data
+    //         Serial.println("The following failed while and has been saved for later save/post");
+    //         //Serial.println(PostOutputLater[later_counter]);
+    //     }
+    //     else
+    //     {
+    //         Serial.println("POST was Successful, no need to store");
+    //         Serial.println("======================================================================================");
+    //         Serial.println();
+    //     }
     Internet_String = '\0';
 
     Serial.print("The internet string has:");

@@ -45,8 +45,8 @@ void AlldomumentingJson()
   Serial.println("The documentingJson function");
 
     doc["time"].set(Tym);
-    doc["lat"] = -33.94024;
-    doc["lon"] = 18.85228;
+    doc["lat"] = latitude;
+    doc["lon"] = longitude;
     JsonArray macs = doc.createNestedArray("macs");
 
     for(int i =0; i<sniffed_macs_global_counter; i++)

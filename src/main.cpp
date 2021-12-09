@@ -27,8 +27,8 @@ String Sniffed_Mac_Addresses[300];
 
 unsigned long currentMillis;
 unsigned long previousMillis;
-const unsigned long time_to_sniff_low_Energy = 1000 * 10;
-const unsigned long time_to_sniff_Classic_Energy = ((time_to_sniff_low_Energy) + (1000 * 22));
+const unsigned long time_to_sniff_low_Energy = 1000 * 20;
+const unsigned long time_to_sniff_Classic_Energy = ((time_to_sniff_low_Energy) + (1000 * 21));
 const unsigned long time_to_reset = 1000 * 60 * 20; //After 10 minutes I want to reset everything
 unsigned long reset_previousMillis;
 
@@ -73,6 +73,7 @@ unsigned long debounceDelay = 50;    // the debounce time; increase if the outpu
 extern volatile bool scan_is_on;
 
 String trip_number= "1";
+extern volatile bool end_classic_scan_flagg;
 
 void free_ram();
 void mark_trip();
@@ -237,8 +238,11 @@ void loop()
     //LowEnergyCheckForDuplicates();
 
     //To do: Sniff Classic Energy Bluetooth
-    if (((currentMillis - previousMillis) >= time_to_sniff_low_Energy) && ((currentMillis - previousMillis) < time_to_sniff_Classic_Energy))
+    //if (((currentMillis - previousMillis) >= time_to_sniff_low_Energy) && ((currentMillis - previousMillis) < time_to_sniff_Classic_Energy))
+    if (((currentMillis - previousMillis) >= time_to_sniff_low_Energy) && (!end_classic_scan_flagg))
     {
+      end_classic_scan_flagg=true; //since we are not scanning classic BT
+
       //Serial.print("latitude "); Serial.println(latitude);
       //Serial.print("longitude "); Serial.println(longitude);
       //Serial.print("Tym "); Serial.println(Tym);
@@ -253,15 +257,11 @@ void loop()
       {
         Serial.println(F("ending bluetooth scanning first"));
         ble_end_flag = false;
-        //BLE.stopScan();
-        //BLE.end();
         scan_is_on=false;
         free_ram();      
-        //BLE.scan();
-        //BLE.end();
       }
 
-      hc_sniff();
+      //hc_sniff(); //since we are not scanning BT
       internet_sending_flagg = true;
     }
 
@@ -269,11 +269,13 @@ void loop()
     //ClassicEnergyCheckForDuplicates();
 
     //To do: Send to database
-    if (((currentMillis - previousMillis) >= time_to_sniff_low_Energy) && ((currentMillis - previousMillis) >= time_to_sniff_Classic_Energy) && (internet_sending_flagg == true)) //&& ((currentMillis - previousMillis) < time_to_temporary_internet))
+    //if (((currentMillis - previousMillis) >= time_to_sniff_low_Energy) && ((currentMillis - previousMillis) >= time_to_sniff_Classic_Energy) && (internet_sending_flagg == true)) //&& ((currentMillis - previousMillis) < time_to_temporary_internet))
+    if((end_classic_scan_flagg==true)&&(internet_sending_flagg == true))
     {
+      end_classic_scan_flagg=false;
       if (classic_energy_duplicate_printed_flag == false)
       {
-        //BLE.end();
+        BLE.end();
         classic_energy_duplicate_printed_flag = true;
         ClassicEnergyCheckForDuplicates();
       }

@@ -13,7 +13,7 @@ volatile bool ble_end_flag;
 extern const int size_of_addres;
 
 extern const unsigned long time_to_sniff_low_Energy;
-const unsigned long time_to_sniff_low_Energy_for_returning = ((time_to_sniff_low_Energy) - (1000 * 1)); // this will terminate earlier than the time allowing it to run
+const unsigned long time_to_sniff_low_Energy_for_returning = ((time_to_sniff_low_Energy) - (1000 * 0.5)); // this will terminate earlier than the time allowing it to run
 extern unsigned long currentMillis;
 extern unsigned long previousMillis;
 
@@ -35,7 +35,7 @@ void Sniff_Low_Energy_bluetooth()
             Sniffed_Mac_Addresses[i] = (char *)malloc(sizeof(char)*size_of_addres);
           }
             */
-           BLE.end();
+           //BLE.end();
         // begin initialization
         if (!BLE.begin()) {
             Serial.println(F("starting BLE failed!"));

@@ -9,7 +9,7 @@
 extern unsigned long currentMillis;
 extern unsigned long previousMillis;
 extern const unsigned long time_to_sniff_Classic_Energy;
-const unsigned long time_to_sniff_Classic_Energy_for_returning = ((time_to_sniff_Classic_Energy) - (1000 * 1)); // this will terminate earlier than the time allowing it to run
+const unsigned long time_to_sniff_Classic_Energy_for_returning = ((time_to_sniff_Classic_Energy) - (1000 * 0.5)); // this will terminate earlier than the time allowing it to run
 
 Uart BTserial(&sercom4, 3, 2, SERCOM_RX_PAD_3, UART_TX_PAD_2);
 
@@ -29,14 +29,19 @@ uint8_t Rx_cntr;
 String _mac_;
 extern int TotalLowEnergyMACS;
 int TotalClassicMacs = 0;
+int ok_times = 0;
+volatile bool end_classic_scan_flagg;
 
 extern const int size_of_addres;
+extern bool internet_sending_flagg;
 
 void hc_init()
 {
+  end_classic_scan_flagg = false;
+  ok_times = 0;
   start_inq_flag = true;
   inq_flag = false;
-  BTserial.println("AT+INQM=1,9,9"); //RSSI, Max 10 devices, ~30s
+  BTserial.println("AT+INQM=1,9,4"); //RSSI, Max 10 devices, ~30s
   // put your setup code here, to run once:
   delay(1000);
   return;
@@ -44,10 +49,13 @@ void hc_init()
 
 void hc_sniff()
 {
-  if ((currentMillis - previousMillis) < time_to_sniff_Classic_Energy_for_returning) //i now need all functions to return so this will require time since they all depend on time to finish
+  //if (((currentMillis - previousMillis) < time_to_sniff_Classic_Energy_for_returning) && (!end_classic_scan_flagg)) //i now need all functions to return so this will require time since they all depend on time to finish
+  if ((!end_classic_scan_flagg))
     {
       if (start_inq_flag == true)
       {
+        end_classic_scan_flagg=false;
+        ok_times=0;
         Serial.println("Send Plain AT Command to HC-05"); //debug
         Serial.println(F("========================================"));
         BTserial.println("AT");
@@ -70,15 +78,16 @@ void hc_sniff()
           //Serial.println(RxBuffer);
           //Serial.println(F("========================================"));
 
-          if ((inq_flag == true) && (RxBuffer[0] = 'O') && (RxBuffer[1] == 'K'))
-          {
-            Serial.println("Received OK after receiving devices");
-            //Serial.println("Authorise the start inquiry flag for anoter inquire");
-            //start_inq_flag=true;
-            Serial.println("Send AT Command to HC-05"); //debug
-            Serial.println(F("========================================"));
-            BTserial.println("AT+INQ");
-          }
+          // if ((inq_flag == true) && (RxBuffer[0] = 'O') && (RxBuffer[1] == 'K'))
+          // {
+          //   ok_times++;
+          //   Serial.println("Received OK after receiving devices");
+          //   //Serial.println("Authorise the start inquiry flag for anoter inquire");
+          //   //start_inq_flag=true;
+          //   Serial.println("Send AT Command to HC-05"); //debug
+          //   Serial.println(F("========================================"));
+          //   BTserial.println("AT+INQ");
+          // }
 
           if ((RxBuffer[0] = 'E') && (RxBuffer[1] == 'R') && (RxBuffer[2] == 'R') && (RxBuffer[3] == 'O' && (RxBuffer[4] == 'R')))
           {
@@ -87,10 +96,27 @@ void hc_sniff()
 
           if ((RxBuffer[0] = 'O') && (RxBuffer[1] == 'K'))
           {
-            Serial.println("we have received ok for controlled AT CMD");
-            Serial.println("Send AT Command to HC-05"); //debug
-            Serial.println(F("========================================"));
-            BTserial.println("AT+INQ");
+            ok_times++;
+
+            if(ok_times==5)
+            {
+              internet_sending_flagg=true;
+              end_classic_scan_flagg = true;
+              _mac_ = '\0';
+              //memset(RxBuffer, 0, sizeof(RxBuffer));
+              for(int i=0; i<=50; i++)
+              {
+                RxBuffer[i] = '\0';
+              }
+              Rx_cntr = 0;
+              return;
+            }
+            else{
+              Serial.println("we have received ok for controlled AT CMD");
+              Serial.println("Send AT Command to HC-05"); //debug
+              Serial.println(F("========================================"));
+              BTserial.println("AT+INQ");
+            }
           }
 
           if ((RxBuffer[0] = '+') && (RxBuffer[1] == 'I') && (RxBuffer[2] == 'N') && (RxBuffer[3] == 'Q'))
@@ -134,7 +160,11 @@ void hc_sniff()
 
           _mac_ = '\0';
           //memset(_mac_,0,strlen(_mac_));
-          memset(RxBuffer, 0, sizeof(RxBuffer));
+          //memset(RxBuffer, 0, sizeof(RxBuffer));
+            for(int i=0; i<=50; i++)
+            {
+              RxBuffer[i] = '\0';
+            }
           Rx_cntr = 0;
           //start_inq_flag=true;
         }
