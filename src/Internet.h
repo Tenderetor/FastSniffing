@@ -144,7 +144,7 @@ void Send_To_The_Internet()
     Internet_String = '\0';
 
     Serial.print("The internet string has:");
-    Serial.print(Internet_String);
+    Serial.println(Internet_String);
 
     Serial.println("The Internet has finished");
     Serial.println("======================================================================================");

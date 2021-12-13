@@ -2,8 +2,12 @@
 #define LOWENERGYBLUETOOTH_H
 
 #include <ArduinoBLE.h>
+#include "TinyGPSplus.h"
+#include "LocationAndTime.h"
 
+extern TinyGPSPlus gps;//This is the GPS object that will pretty much do all the grunt work with the NMEA data
 BLEDevice peripheral;
+
 extern String Sniffed_Mac_Addresses[];
 //extern char * Sniffed_Mac_Addresses[];
 volatile bool low_energy_initialize_flag;
@@ -19,8 +23,20 @@ extern unsigned long previousMillis;
 
 volatile bool scan_is_on;
 
-//char *sniffed;//[18][300];
-//malloc(sizeof(char*)*300);
+//the following variables are for additional data on the distance by speed of BLE experiment
+extern String b_tym; //begin scanning
+extern String e_tym; // end scanning do we need this otherwise we just add 20 seconds to the start time
+
+extern float b_lat; //begin latitude
+extern float e_lat; //end latitude
+
+extern float b_lon; //begin longitude
+extern float e_lon; //end scanning longitude
+
+extern double b_speed; //begin scan speed
+extern double e_speed;  //end scan speed
+
+extern int rssi[]; //collect the rssi data on each peripheral
 
 void LowEnergyCheckForDuplicates();
 
@@ -44,7 +60,11 @@ void Sniff_Low_Energy_bluetooth()
 
         Serial.println(F("BLE Central scan"));
         // start scanning for peripheral
-        BLE.scan();
+        b_speed = gps.speed.mps();
+        b_lat=gps.location.lat();
+        b_lon=gps.location.lng();
+        b_tym = printDateTime(gps.date, gps.time);
+        BLE.scan(false);
         scan_is_on = true;
     }
 
@@ -72,6 +92,11 @@ void Sniff_Low_Energy_bluetooth()
           Serial.println(peripheral.localName());
         }
 
+        // print the RSSI
+        Serial.print("RSSI: ");
+        Serial.println(peripheral.rssi());
+        rssi[sniffed_macs_global_counter] = peripheral.rssi();
+
         sniffed_macs_global_counter = sniffed_macs_global_counter + 1;
         TotalLowEnergyMACS = TotalLowEnergyMACS+1;
         Serial.print(TotalLowEnergyMACS);
@@ -98,6 +123,10 @@ void LowEnergyCheckForDuplicates()
 {
     int i, j, k;
     int old_number_of_macs = sniffed_macs_global_counter;
+    e_speed = gps.speed.kmph();
+    e_lat=gps.location.lat();
+    e_lon=gps.location.lng();
+    e_tym = printDateTime(gps.date, gps.time);
  /*   
     Serial.println("Function: LowEnergyCheckForDuplicates");
     Serial.println("The following are the LOW ENERGY sniffed Mac Addresses:");
@@ -125,6 +154,7 @@ void LowEnergyCheckForDuplicates()
                 for(k=j; k<sniffed_macs_global_counter-1; k++)
                 {
                     Sniffed_Mac_Addresses[k] = Sniffed_Mac_Addresses[k+1];
+                    rssi[k]= rssi[k+1];
                 }
                 /* Decrement size after removing duplicate element */
                 sniffed_macs_global_counter--;
@@ -142,7 +172,9 @@ void LowEnergyCheckForDuplicates()
 
     for(int m = 0; m< sniffed_macs_global_counter; m++)
     {
-        Serial.println(Sniffed_Mac_Addresses[m]);
+        Serial.print(Sniffed_Mac_Addresses[m]);
+        Serial.print(" RSSI=");
+        Serial.println(rssi[m]);
     }
     Serial.println(F("========================================"));
     Serial.println(F("========================================"));

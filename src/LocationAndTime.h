@@ -81,7 +81,7 @@ void gps_function_on_start() {
   Serial.print("Inside gps functon the returned tym ->");
   Serial.println(_tym_);
   Tym =_tym_;
-  _tym_ +='\0';
+  _tym_ ='\0';
   //Serial.println();    
 
 
@@ -136,11 +136,46 @@ void current_time()
  // Serial.print("Inside gps functon the returned tym ->");
   //Serial.println(_tym_);
   Tym =_tym_;
-  _tym_ +='\0';
+  _tym_ ='\0';
   //Serial.println();    
 
  //previousMillis = millis();
  return;
+}
+
+String printDateTime(TinyGPSDate &d, TinyGPSTime &t)
+{
+  String tyming;
+
+  if (!d.isValid())
+  {
+    //Serial.print(F("********** "));
+    tyming += "DATE INVALID";
+  }
+  else
+  {
+    char sz[32];
+    sprintf(sz, "%02d/%02d/%02d ", d.month(), d.day(), d.year());
+    //Serial.print(sz);
+    tyming += sz;
+  }
+  
+  if (!t.isValid())
+  {
+    //Serial.print(F("******** "));
+    tyming += "TIME INVALID";
+  }
+  else
+  {
+    char sz[32];
+    sprintf(sz, "%02d:%02d:%02d ", t.hour(), t.minute(), t.second());
+    //Serial.print(sz);
+    tyming += sz;
+  } 
+
+  smartDelay(0);
+
+  return tyming;
 }
 
 bool has_location_changed()

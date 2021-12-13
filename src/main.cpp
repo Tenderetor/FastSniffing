@@ -15,7 +15,7 @@ extern volatile bool low_energy_initialize_flag;
 int sniffed_macs_global_counter;
 
 //int * pointer;
-String Sniffed_Mac_Addresses[300];
+String Sniffed_Mac_Addresses[150];
 //pointer = malloc(300*sizeof(String));
 //char mac_ad[18]
 //String Sniffed_Mac_Addresses = (String*)malloc(sizeof(String)*300);
@@ -27,7 +27,7 @@ String Sniffed_Mac_Addresses[300];
 
 unsigned long currentMillis;
 unsigned long previousMillis;
-const unsigned long time_to_sniff_low_Energy = 1000 * 20;
+const unsigned long time_to_sniff_low_Energy = 1000 * 5;
 const unsigned long time_to_sniff_Classic_Energy = ((time_to_sniff_low_Energy) + (1000 * 21));
 const unsigned long time_to_reset = 1000 * 60 * 20; //After 10 minutes I want to reset everything
 unsigned long reset_previousMillis;
@@ -74,6 +74,21 @@ extern volatile bool scan_is_on;
 
 String trip_number= "1";
 extern volatile bool end_classic_scan_flagg;
+
+//the following variables are for additional data on the distance by speed of BLE experiment
+String b_tym; //begin scanning
+String e_tym; // end scanning do we need this otherwise we just add 20 seconds to the start time
+
+float b_lat; //begin latitude
+float e_lat; //end latitude
+
+float b_lon; //begin longitude
+float e_lon; //end scanning longitude
+
+double b_speed; //begin scan speed
+double e_speed;  //end scan speed
+
+int rssi[150]; //collect the rssi data on each peripheral
 
 void free_ram();
 void mark_trip();
@@ -378,9 +393,10 @@ void free_ram()
   //Serial.println("HAVE WE CLEARED ?");
   //Serial.println("======================================================================================");
   //Serial.println("======================================================================================");
-  for (int e = sniffed_macs_global_counter; e < 300; e++)
+  for (int e = sniffed_macs_global_counter; e < 150; e++)
   {
     (Sniffed_Mac_Addresses[e]) = '\0';
+    rssi[e]=0;
   }
 
   //for(int f=0; f<400; f++)

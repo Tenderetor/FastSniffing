@@ -25,6 +25,21 @@ extern bool finished_recursion_flagg;
 extern uint8_t number_b4_upload;
 uint8_t times_we_loaded_output=0;
 
+//the following variables are for additional data on the distance by speed of BLE experiment
+extern String b_tym; //begin scanning
+extern String e_tym; // end scanning do we need this otherwise we just add 20 seconds to the start time
+
+extern float b_lat; //begin latitude
+extern float e_lat; //end latitude
+
+extern float b_lon; //begin longitude
+extern float e_lon; //end scanning longitude
+
+extern double b_speed; //begin scan speed
+extern double e_speed;  //end scan speed
+
+extern int rssi[]; //collect the rssi data on each peripheral
+
 void AlldomumentingJson()
 {
   Serial.println("======================START==========================");
@@ -44,15 +59,24 @@ void AlldomumentingJson()
   //doc.clear();
   Serial.println("The documentingJson function");
 
-    doc["time"].set(Tym);
-    doc["lat"] = latitude;
-    doc["lon"] = longitude;
+    doc["start_time"].set(b_tym); //start scan time
+    doc["end_time"].set(e_tym); //start scan time
+    doc["start_lat"].set(b_lat);  //start scan latitude
+    doc["start_long"].set(b_lon); //start scan lon
+    doc["end_lat"].set(e_lat); //end scan lat
+    doc["end_long"].set(e_lon); //end scan longi
+    doc["start_speed"].set(b_speed); //start scan speed
+    doc["end_speed"].set(e_speed); //start scan speed
+    //doc["time"].set(Tym);
+    //doc["lat"] = latitude;
+    //doc["lon"] = longitude;
     JsonArray macs = doc.createNestedArray("macs");
 
     for(int i =0; i<sniffed_macs_global_counter; i++)
     {
       JsonObject rooot = macs.createNestedObject();
       rooot["addr"].set(Sniffed_Mac_Addresses[i]);
+      rooot["rssi"].set(rssi[i]);
     }
 
     serializeJson(doc, Serial);
@@ -92,6 +116,21 @@ void AlldomumentingJson()
     //clear document for reuse
     Serial.println("======================domumentingJson Finished==========================");
     doc.clear();
+
+    //clear extra sniff data for experiment
+    b_lat=0;
+    b_lon=0;
+    e_lat=0; //end scan lat
+    e_lon=0;
+    b_speed = 0;
+    e_speed = 0;
+    b_tym='\0';
+    e_tym='\0';
+    for (int e = 0; e < 150; e++)
+    {
+      (Sniffed_Mac_Addresses[e]) = '\0';
+      (rssi[e]) = '\0';
+    }        
 
     capa=0;
     done_jsondocumenting_flagg = true;
