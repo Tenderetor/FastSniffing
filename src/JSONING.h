@@ -59,17 +59,17 @@ void AlldomumentingJson()
   //doc.clear();
   Serial.println("The documentingJson function");
 
-    doc["start_time"].set(b_tym); //start scan time
-    doc["end_time"].set(e_tym); //start scan time
-    doc["start_lat"].set(b_lat);  //start scan latitude
-    doc["start_long"].set(b_lon); //start scan lon
-    doc["end_lat"].set(e_lat); //end scan lat
-    doc["end_long"].set(e_lon); //end scan longi
+    //doc["start_time"].set(b_tym); //start scan time
+    //doc["end_time"].set(e_tym); //start scan time
+    //doc["start_lat"].set(b_lat);  //start scan latitude
+    //doc["start_long"].set(b_lon); //start scan lon
+    //doc["end_lat"].set(e_lat); //end scan lat
+    //doc["end_long"].set(e_lon); //end scan longi
     doc["start_speed"].set(b_speed); //start scan speed
     doc["end_speed"].set(e_speed); //start scan speed
-    //doc["time"].set(Tym);
-    //doc["lat"] = latitude;
-    //doc["lon"] = longitude;
+    doc["time"].set(Tym);
+    doc["lat"] = latitude;
+    doc["lon"] = longitude;
     JsonArray macs = doc.createNestedArray("macs");
 
     for(int i =0; i<sniffed_macs_global_counter; i++)

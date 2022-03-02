@@ -24,16 +24,15 @@ static void smartDelay(unsigned long ms)
 
 void gps_function_on_start() {
 
-
-
   Serial.println(F("location"));
-  
-  while ((Serial1.available() > 0) && (Serial1.read() != '\r')) 
-  {
+  // while ((Serial1.available() > 0) && (Serial1.read() != '\r')) 
+  // {
+  //   smartDelay(100);
+  // }
 
-    smartDelay(1000);
+    // while (Serial1.available() > 0)
+    // gps.encode(Serial1.read());
 
-  }
     Serial.print(F("Latitude: "));
     Serial.println(gps.location.lat(), 6);
     latitude = gps.location.lat();
@@ -55,7 +54,7 @@ void gps_function_on_start() {
   }
   else
   {
-    _tym_ = "DATE INVALID";
+    _tym_ = "DATE_INVALID";
   }
 
   _tym_ += " ";

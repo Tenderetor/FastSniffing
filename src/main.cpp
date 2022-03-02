@@ -93,6 +93,9 @@ int rssi[150]; //collect the rssi data on each peripheral
 void free_ram();
 void mark_trip();
 void trip_init();
+void receive_gps();
+
+String incomingstring="";
 
 void setup()
 {
@@ -139,15 +142,21 @@ void setup()
   uint16_t capa = 128*20;
   Serial.print("The capacity created is: ");
   Serial.println(capa);
-  delay(10000);
-  delay(2000);
-  hc_init();
-  Internet_initialization();
+  //delay(10000);
+  //delay(2000);
+  //hc_init();
+  //Internet_initialization();
   //trip_init();
+  Internet_setup_flag=true;
 }
 
 void loop()
 {
+  receive_gps();
+  // while (Serial1.available() > 0)
+  // {
+  //   gps.encode(Serial1.read());
+  // }
   int reading = digitalRead(buttonPin);
   //Internet_setup_flag=true;
   if (Internet_setup_flag)
@@ -377,6 +386,15 @@ void loop()
   }
 }
 
+void receive_gps()
+{
+  while(Serial1.available()>0)
+  {
+    char b =Serial1.read();
+    incomingstring+=b;
+  }
+  Serial.println(incomingstring);
+}
 
 void free_ram()
 {
